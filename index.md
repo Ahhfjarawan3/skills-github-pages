@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: getting started with githun
 ---
 
+---
+author: Abdullah Jarawan
+---
